@@ -33,6 +33,7 @@ El proyecto utiliza el archivo `application.properties` para definir propiedades
 ```properties
 spring.mvc.throw-exception-if-no-handler-found=true
 spring.web.resources.add-mappings=false
+```
 
 ### 📂 Estructura del proyecto
 - `controllers` - Contiene el controlador de manejo de excepciones (`HandlerExceptionController`).
